@@ -1,0 +1,23 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "Expound cypress features",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunatennakoon/cypress-project.git"
+  },
+  "author": "aruna thennakoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunatennakoon/cypress-project/issues"
+  },
+  "homepage": "https://github.com/arunatennakoon/cypress-project#readme",
+  "devDependencies": {
+    "cypress": "^4.3.0"
+  }
+}
